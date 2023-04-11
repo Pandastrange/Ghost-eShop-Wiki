@@ -5,7 +5,7 @@
 *Afin de ne pas avoir de problèmes par la suite, veuillez à bien suivre ce guide **étapes par étapes***
 
 **Rappels :**
-* Si vous ne savez pas ce qu'est une 3DS (Ce qui mettonerez si vous êtes ici 😂), alors voici la magnifique page de Wikipedia : [ici](https://fr.wikipedia.org/wiki/Nintendo_3DS).
+* Si vous ne savez pas ce qu'est une 3DS (Ce qui m'étonnerait si vous êtes ici 😂), alors voici la magnifique page de Wikipedia : [ici](https://fr.wikipedia.org/wiki/Nintendo_3DS).
 * Afin que vous compreniez bien ce guide, il vous faut savoir que les mot ou groupe de mot [soulignez et de couleurs bleus]() sont des liens, et donc en cliquant sur un mot [soulignez et de couleurs bleus](), celà vous redirigeras vers une autre page, par exemple : [FBI](https://github.com/Steveice10/FBI) vous redirigeras vers le github de Steveice 10 pour plus de précisions lire [cette documentation markdown](https://cours-web.ch/divers/markdown/).
 * Et pour finir les rappels, Ghost eShop Team n'est en aucun cas responsable d'éventuel dommage que vous pourriez causé à votre console ou autre, normallement si vous suivez bien ce guide, vous n'aurez aucun problèmes, mais si il s'avéraient y avoir un problème, vous pouvez toujours contacter le staff de Ghost eShop Team en rejoignant [le serveur discord](https://discord.gg/ENFGnYrKMf).
 **Si vous ne savez pas ce que vous faites, ne le faites pas ou alors laisser faire une personne compétente.**
@@ -26,10 +26,10 @@ Afin de pouvoir utiliser l'homebrew Ghost eShop, vous aurez bien sur besoin soit
 
 **Commençons par le ```.cia``` :**
 Il y as deux solutions qui soffre à vous :
-* Soit télécharger [GhostEshop.cia](https://cdn.ghosteshop.com/Homebrew/GhostEshop.cia) depuis un PC💻 ou un téléphone📱 (Vaut mieux le faire sur un PC Windows ou Linux)
+* Soit télécharger [GhostEshop.cia](https://cdn.ghosteshop.com/Homebrew/GhostEshop.cia) depuis un PC💻 ou un téléphone📱 
 
     * Ensuite mettre ```GhostEshop.cia``` sur votre carte SD dans ```sdmc:/CIAs/GhostEshop.cia```
-    * Allumer ensuite votre console en ayant au par avant insèré votre Carte SD contenant ```GhostEshop.cia```
+    * Allumer ensuite votre console en ayant au par avant inséré votre Carte SD contenant ```GhostEshop.cia```
     * Aller ensuite dans l'homebrew FBI
     * Puis : ```SD > CIAs > Descendre sur GhostEshop.cia > cliquer sur le boouton (A) > Install and delete CIA > cliquer sur le bouton (A)```
     * Après avoir attendue la fin de l'installation, appuyez **une fois** sur le bouton **(A)**
